@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294.329 740.327">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 193.579px;
+        letter-spacing: .003em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #f15a29;
+        font-family: ColonnaMT, 'Colonna MT';
+      }
+
+      .cls-3 {
+        fill: #777576;
+        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
+        font-size: 116.008px;
+        font-weight: 700;
+        stroke: #1a140b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 671.121px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(.434 510.387) rotate(.108) scale(.975 1)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-1" transform="translate(184.636 503.184) rotate(-159.763) scale(1.217 -1)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(127.295 271.486) rotate(21.953) scale(.508 1)"><tspan x="0" y="0">&lt;/&gt;</tspan></text>
+</svg>
